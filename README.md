@@ -1,3 +1,4 @@
+# CSC 483/583: Final Project
 Our team decided to work on Watson, a Jeopardy champion. 
 
 This project is set up to be a Maven project. Therefore, the easiest way to run it would be to set it up in Eclipse or IntelliJ, and then simply run the Watson.java file with no command-line. We always use it and would recommend it. 
