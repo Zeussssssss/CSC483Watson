@@ -282,7 +282,7 @@ public class Watson {
 	 */
 	public static String chatGPT(String prompt) {
 		String url = "https://api.openai.com/v1/chat/completions";
-		String apiKey = "sk-proj-fu1J0kHfi1yr3qcDyp1zT3BlbkFJRMkMWwNKjV8Fcllq7HdE";
+		String apiKey = "API-KEY-HERE";
 		String model = "gpt-4-turbo";
 		StringBuffer response = new StringBuffer();
 		try {
